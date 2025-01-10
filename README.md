@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rizqiansyah Ramadhan</h1>
-<h3 align="center">An undergraduate Software Engineering student specializing in backend development. Experienced in creating and managing APIs with frameworks such as Express, NestJS, Laravel, Flask, and Go. Skilled in database management using MongoDB, MySQL, PostgreSQL, SQLite, and Firebase. Additionally, familiar with mobile development using Flutter to integrate APIs and frontend development with React. Always eager to learn and contribute to impactful projects.</h3>
+<h1>Hi 👋, I'm Rizqiansyah Ramadhan</h1>
+<h3>An undergraduate Software Engineering student specializing in backend development. Experienced in creating and managing APIs with frameworks such as Express, NestJS, Laravel, Flask, and Go. Skilled in database management using MongoDB, MySQL, PostgreSQL, SQLite, and Firebase. Additionally, familiar with mobile development using Flutter to integrate APIs and frontend development with React. Always eager to learn and contribute to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizz404&label=Profile%20views&color=0e75b6&style=flat" alt="rizz404" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizz404" alt="rizz404" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, nestjs, and Go**
 
