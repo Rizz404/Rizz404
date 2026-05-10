@@ -48,6 +48,23 @@ I'm the type who reads docs for fun and always has too many side projects runnin
 ## 📌 Top Projects
 
 <!-- PINNED_REPOS_START -->
+<p align="left">
+  <a href="https://github.com/Rizz404/e-book-api-with-standarized-api">
+    <img width="278" src="https://github-readme-stats-pi-rouge-87.vercel.app/api/pin/?username=Rizz404&repo=e-book-api-with-standarized-api&theme=react&bg_color=1F1020&title_color=C8004A&hide_border=true&icon_color=F0C800" alt="e-book-api-with-standarized-api"/>
+  </a>
+  <a href="https://github.com/Rizz404/happiness-overload-api-v2">
+    <img width="278" src="https://github-readme-stats-pi-rouge-87.vercel.app/api/pin/?username=Rizz404&repo=happiness-overload-api-v2&theme=react&bg_color=1F1020&title_color=C8004A&hide_border=true&icon_color=F0C800" alt="happiness-overload-api-v2"/>
+  </a>
+  <a href="https://github.com/Rizz404/magic-scroll-api-v2">
+    <img width="278" src="https://github-readme-stats-pi-rouge-87.vercel.app/api/pin/?username=Rizz404&repo=magic-scroll-api-v2&theme=react&bg_color=1F1020&title_color=C8004A&hide_border=true&icon_color=F0C800" alt="magic-scroll-api-v2"/>
+  </a>
+  <a href="https://github.com/Rizz404/gun-api-with-flask">
+    <img width="278" src="https://github-readme-stats-pi-rouge-87.vercel.app/api/pin/?username=Rizz404&repo=gun-api-with-flask&theme=react&bg_color=1F1020&title_color=C8004A&hide_border=true&icon_color=F0C800" alt="gun-api-with-flask"/>
+  </a>
+  <a href="https://github.com/Rizz404/cat-shop-api-with-express">
+    <img width="278" src="https://github-readme-stats-pi-rouge-87.vercel.app/api/pin/?username=Rizz404&repo=cat-shop-api-with-express&theme=react&bg_color=1F1020&title_color=C8004A&hide_border=true&icon_color=F0C800" alt="cat-shop-api-with-express"/>
+  </a>
+</p>
 <!-- PINNED_REPOS_END -->
 
 <a href="https://github.com/Rizz404?tab=repositories&sort=stargazers">
