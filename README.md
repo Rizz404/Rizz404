@@ -31,7 +31,7 @@
 
 ## About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="250" src="https://i.pinimg.com/originals/45/b1/0c/45b10c9f93d42eafee239bfa7e7075fe.gif" />
 
 Final-year **Software Engineering** student from **Jakarta, Indonesia**, focused on building clean, scalable backend systems and mobile applications.
 
